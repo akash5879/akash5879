@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **akashshelar5879@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1T2TA6aMcJL9ctE6fHchaRLPdMbBw-csX/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Download-Resume-blue
-"/> Download Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1T2TA6aMcJL9ctE6fHchaRLPdMbBw-csX/view?usp=drive_link" target="blank"><img src="https://img.shields.io/badge/Download-Resume-blue" alt="Download Resume"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
